@@ -1,3 +1,7 @@
+## 8.5.0-alpha.5
+
+- Addon Test: Optimize internal dependencies - [#29595](https://github.com/storybookjs/storybook/pull/29595), thanks @yannbf!
+
 ## 8.5.0-alpha.4
 
 - Next.js: Add support for Next 15 - [#29587](https://github.com/storybookjs/storybook/pull/29587), thanks @yannbf!
